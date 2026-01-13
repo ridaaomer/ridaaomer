@@ -1,4 +1,3 @@
 Hi, I’m rida
 
-
-Currently learning and developing ctfs
+Pentesting intern | CTF Developer
