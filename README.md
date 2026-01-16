@@ -1,3 +1,3 @@
-Hi, I’m rida
-
-Pentesting intern | CTF Developer
+Hi, I’m rida 
+I love playing/developing ctfs
+AU'28
